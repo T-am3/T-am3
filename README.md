@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tame</h1>
-<h3 align="center">A from the U.S.A</h3>
+<h3 align="center">A web developer from USA, Illinois </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=t-am3&label=Profile%20views&color=0e75b6&style=flat" alt="t-am3" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [tame.wtf](tame.wtf)
+- 👨‍💻 All of my projects are available at [Poms Adddons](https://pomsaddons.xyz/work.html)
 
 - 📫 How to reach me **tame@tame.wtf**
 
