@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Tame</h1>
-<h3 align="center">A web developer from USA, Illinois </h3>
+<h1 align="center">Hi! 👋, I'm Tame</h1>
+<h3 align="center">A developer from USA, Illinois </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=t-am3&label=Profile%20views&color=0e75b6&style=flat" alt="t-am3" /> </p>
 
-- 🔭 I’m currently working on [RoPro Bot](https://github.com/pompompur1nn/ropro-bot)
+- 🔭 I’m currently working on [RoPro Bot](https://ropro-bot.gitbook.io/docs/)
 
 - 🌱 I’m currently learning **Python, PHP, and Figma**
 
