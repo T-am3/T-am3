@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [RoPro Bot](https://github.com/pompompur1nn/ropro-bot)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python, PHP, and Figma**
 
-- 👨‍💻 All of my projects are available at [Poms Adddons](https://pomsaddons.xyz/work.html)
+- 👨‍💻 Some of my projects are available at [Poms Addons](https://pomsaddons.xyz/work.html)
 
-- 📫 How to reach me **tame@tame.wtf**
+- 📫 You can reach me at **tame@tame.wtf**
 
 - ⚡ Fun fact **Not a furry! >:(**
 
