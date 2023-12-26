@@ -11,7 +11,7 @@
 
 - 📫 You can reach me at **tame@tame.wtf**
 
-- ⚡ Fun fact **Not a furry! >:(**
+- ⚡ Fun fact: **I AM Not a furry! >:(**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
