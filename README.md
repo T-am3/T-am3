@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [RoPro Bot](https://ropro-bot.gitbook.io/docs/)
 
-- 🌱 I’m currently learning **Python, PHP, and Figma**
+- 🌱 I’m currently learning **Python, PHP, and Node.JS**
 
 - 👨‍💻 Some of my projects are available at [Poms Addons](https://pomsaddons.xyz/work.html)
 
