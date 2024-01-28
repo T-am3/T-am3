@@ -13,9 +13,11 @@
     <li>📫 You can reach me at <strong>tame@tame.wtf</strong></li>
     <li>⚡ Fun fact: I also do music as a hobby!</li>
   </ul>
+<h3>Connect with me:</h3>
+  <a href="https://www.youtube.com/c/@tam3" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Tame" height="30" width="40" /></a>
+  <a href="https://discord.com/users/466947414075506699" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Tame" height="30" width="40" /></a>
+  <a href="https://open.spotify.com/artist/1Zzq6ToN7OhYCEs22vqa6b?si=Vjs9oPL2RmyY50Fw4gR9BA" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="Tame" height="30" width="40" /></a>
 
-  <h3>Connect with me:</h3>
-  <a href="https://www.youtube.com/c/@tam3" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tam3" height="30" width="40" /></a>
 
   <h3>Languages and Tools:</h3>
   <p> 
@@ -33,21 +35,17 @@
     <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a>
   </p>
 
-  <p>
-    <strong>GitHub Stats:</strong>
-  </p>
+  <h3>GitHub Stats:</h3>
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=T-am3&show_icons=true&theme=dark" alt="Tame's GitHub Stats"/>
   </p>
-  <p>
-    <strong>Top Languages:</strong>
-  </p>
+
+  <h3>Top Languages:</h3>
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-am3&layout=compact&theme=dark" alt="Tame's Top Languages"/>
   </p>
-  <p>
-    <strong>WakaTime Stats:</strong>
-  </p>
+
+  <h3>WakaTime Stats:</h3>
   <p>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tame&layout=compact&theme=dark" alt="Tame's WakaTime Stats"/>
