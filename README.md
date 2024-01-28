@@ -32,4 +32,10 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
 
-![Tame's GitHub stats](https://github-readme-stats.vercel.app/api?username=T-am3&show_icons=true&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=T-am3&show_icons=true&theme=dark" alt="Tame's GitHub Stats"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-am3&layout=compact" alt="Tame's Top Languages"/>
+</p>
+
