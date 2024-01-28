@@ -1,10 +1,11 @@
 <div align="center">
   <h1>Hi! 👋, I'm Tame</h1>
-  <h3>A Full-Stack Developer and UX/UI Designer based in Illinois, USA</h3>
-
-  <p> 
+    <p> 
     <img src="https://komarev.com/ghpvc/?username=t-am3&label=Profile%20views&color=0e75b6&style=flat" alt="t-am3" />
   </p>
+  <h3>A Full-Stack Developer and UX/UI Designer based in Illinois, USA</h3>
+
+
 
   <ul style="list-style-type: none; padding: 0;">
     <li>🔭 I’m currently working on <a href="https://ropro-bot.gitbook.io/docs/">RoPro Bot</a></li>
