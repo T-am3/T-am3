@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Hello! 👋, I'm Tame</h1>
-  <h3>A Full-Stack Developer based in Illinois, USA</h3>
+  <h1>Hi! 👋, I'm Tame</h1>
+  <h3>A Full-Stack Developer and UX/UI Designer based in Illinois, USA</h3>
 
   <p> 
     <img src="https://komarev.com/ghpvc/?username=t-am3&label=Profile%20views&color=0e75b6&style=flat" alt="t-am3" />
